@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to cybersecurity, especially cloud network security. I'm also open to collaborating on projects related to 3D printing, military transition assistance, or cooking.
 - 📫 How to reach me ...
 - ⚡ Fun fact: As a transition military officer, I enjoy helping others navigate their own transitions. I also have a passion for cooking and teaching others new culinary skills.
+- 📎  [Portfolio](https://github.com/CSC2-PyHive/Portfolio)
 
 <!---
 CSC2-PyHive/CSC2-PyHive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
